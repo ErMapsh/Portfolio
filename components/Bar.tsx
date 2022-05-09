@@ -5,8 +5,8 @@ export const Bar: FunctionComponent<{ data: Iskill }> = ({ data: { Icon, level, 
     return (
         <div className="w-4/5 my-2 text-white bg-gray-300 rounded-full dark:bg-dark-200">
             <div className="flex items-center px-4 rounded-full bg-gradient-to-r from-green to-blue-600" style={{width: level}}>
-                <Icon className="m-3 hidden lg:block"/>
-                <span className="sm:text-[#2px]">{name}</span>
+                <Icon className="hidden m-3 lg:block"/>
+                <span className="text-sm lg:text-lg">{name}</span>
             </div>
         </div>
     )
