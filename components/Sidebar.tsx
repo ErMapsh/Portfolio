@@ -37,7 +37,7 @@ function Sidebar() {
             </div>
 
             {/* address */}
-            <div className='w-full py-4 my-5 bg-gray-200 dark:bg-dark-700'>
+            <div className='w-full px-2 py-4 my-5 bg-gray-200 dark:bg-dark-700'>
                 <div className='flex items-center justify-center space-x-2'>
                     <GoLocation className='w-4 h-4' />
                     <span>Maharashtra, India</span>
