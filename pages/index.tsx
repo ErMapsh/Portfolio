@@ -9,9 +9,8 @@ function index({ endpoint }) {
   return (
     <div className="flex flex-col px-6 pt-1 ">
       <h6 className="my-3 text-base font-medium">
-        I am currently pursuing B.Tech Degree(Final Year) in Computer Science
-        Engineering from Academy of Technology. I have 3+ years of experience in
-        Web Development
+        I am currently pursuing B.E Degree(Final Year) in Computer Science
+        Engineering from SSPM College of Engineering, Kankavali. I have 2+ years of experience in Web Development.
       </h6>
       <div
         className="flex-grow px-4 py-1 mt-5 bg-gray-400 dark:bg-dark-100"
