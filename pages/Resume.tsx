@@ -12,8 +12,8 @@ function Resume() {
           <div>
             <h5 className="my-2 text-xl font-bold">Computer Engineering</h5>
             <p className='font-semibold'>University of Mumbai(2018-2022)</p>
-            <p className='my-3'>I am currently pursuing B.E in Computer
-              Engineering from SSPM College of Engineering</p>
+            <p className='my-3'>I completed my B.E in Computer
+              Engineering from SSPM College of Engineering with 8.20 CGPA</p>
           </div>
         </div>
         <div>

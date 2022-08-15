@@ -13,6 +13,11 @@ export const languages: Iskill[] = [
         Icon: BsCircleFill,
     },
     {
+        name: "C++",
+        level: "70%",
+        Icon: BsCircleFill,
+    },
+    {
         name: "Javascript",
         level: "70%",
         Icon: BsCircleFill,
