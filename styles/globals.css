@@ -7,3 +7,7 @@ body{
     font-family: sans-serif;
     color: #354358;
 }
+
+.pre-wrap{
+    white-space: pre-wrap;
+}

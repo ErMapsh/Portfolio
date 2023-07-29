@@ -13,7 +13,7 @@ export const servicesData: IServices[] = [
     },
     {
         title: "Frontend Development",
-        description: "I can build a beautiful and scalable SPA using <b>HTML</b>, <b>CSS</b> and <b>React.js</b>",
+        description: "I can build a beautiful and scalable SPA using <b>HTML</b>, <b>CSS</b> and <b>React.JS</b>, <b>NEXT.JS</b>, <b>ANGULAR</b>",
         Icon: RiComputerLine,
     },
     {
@@ -23,7 +23,7 @@ export const servicesData: IServices[] = [
     },
     {
         title: "API Development",
-        description: "I can develop robust REST API using <b>Node API</b>.",
+        description: "I can develop robust REST API using <b>Node API</b>, <b>LARAVEL</b>",
         Icon: AiOutlineApi,
     },
     {

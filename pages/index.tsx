@@ -5,7 +5,7 @@ import { ServicesCard } from '../components/ServicesCard'
 import { servicesData } from '../data/services/servicesData'
 import { IServices } from '../interface/IServices'
 
-function index({ endpoint }) {
+function index() {
   return (
     <div className="flex flex-col px-6 pt-1 ">
       <h6 className="my-3 text-base font-medium">
@@ -43,8 +43,8 @@ export const getServerSideProps = async (context: GetServerSidePropsContext) => 
   // const data = await res.json()
   // console.log("data", data)
   return {
-    props: { endpoint: process.env.VERCEL_URL }, // will be passed to the page component as props
+    props: { endpoint: '/' }, // will be passed to the page component as props
   }
 }
 
-export default index
+export default index;

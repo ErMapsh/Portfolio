@@ -28,18 +28,18 @@ function Resume() {
       </div>
 
       {/* lanugauge and tools */}
-      <div className="grid grid-cols-2 gap-t">
-        <div>
-          <h5 className="my-3 text-2xl font-bold">Language and Frameworks</h5>
-          <div className="my-2">
+      <div className="grid sm:grid-cols-1 md:grid-cols-2 gap-t sm:w-full md:w-full">
+        <div className='sm:w-full md:w-full'>
+          <h5 className="my-3 text-lg font-bold">Language and Frameworks</h5>
+          <div className="my-2 text-base">
             {
               languages.map(language => <Bar data={language} key={language.name} />)
             }
           </div>
         </div>
-        <div>
-          <h5 className="my-3 text-2xl font-bold">Database and Other Skills</h5>
-          <div className="my-2">
+        <div className='sm:w-full md:w-full'>
+          <h5 className="my-3 font-bold md:text-lg">Database and Other Skills</h5>
+          <div className="my-2 text-base">
             {
               IotherSkills.map(language => <Bar data={language} key={language.name} />)
             }
