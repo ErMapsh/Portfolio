@@ -18,26 +18,35 @@ export const languages: Iskill[] = [
         Icon: BsCircleFill,
     },
     {
-        name: "Javascript",
+        name: "JS",
         level: "70%",
         Icon: BsCircleFill,
-    }, 
+    },
     {
-        name: "React.Js",
+        name: "REACT.JS",
         level: "75%",
         Icon: BsCircleFill,
     },
     {
-        name: "React Native",
+        name: "REACTs Native",
         level: "80%",
         Icon: BsCircleFill,
     },
     {
-        name: "Next.js",
+        name: "NEXT.JS",
         level: "60%",
         Icon: BsCircleFill,
-    }, 
-
+    },
+    {
+        name: "ANGULAR",
+        level: "75%",
+        Icon: BsCircleFill,
+    },
+    {
+        name: "LARAVEL",
+        level: "75%",
+        Icon: BsCircleFill,
+    },
 ]
 
 export const IotherSkills: Iskill[] = [
@@ -62,7 +71,7 @@ export const IotherSkills: Iskill[] = [
         Icon: BsCircleFill,
     },
     {
-        name: "Git",
+        name: "Git, BitBucket",
         level: "70%",
         Icon: BsCircleFill,
     },
