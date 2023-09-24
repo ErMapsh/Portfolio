@@ -43,8 +43,8 @@ export const languages: Iskill[] = [
         Icon: BsCircleFill,
     },
     {
-        name: "LARAVEL",
-        level: "75%",
+        name: "LARAVEL Lumen",
+        level: "60%",
         Icon: BsCircleFill,
     },
 ]
@@ -53,6 +53,16 @@ export const IotherSkills: Iskill[] = [
     {
         name: "MongoDB",
         level: "60%",
+        Icon: BsCircleFill,
+    },
+    {
+        name: "MySql",
+        level: "60%",
+        Icon: BsCircleFill,
+    },
+    {
+        name: "Angular Material",
+        level: "80%",
         Icon: BsCircleFill,
     },
     {

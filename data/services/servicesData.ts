@@ -23,7 +23,7 @@ export const servicesData: IServices[] = [
     },
     {
         title: "API Development",
-        description: "I can develop robust REST API using <b>Node API</b>, <b>LARAVEL</b>",
+        description: "I can develop robust REST API using <b>Node API</b>, <b>LARAVEL Lumen</b>",
         Icon: AiOutlineApi,
     },
     {
