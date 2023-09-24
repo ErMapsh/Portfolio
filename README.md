@@ -1,2 +1,2 @@
-![Portfolio](/Images/portfolio.png)__
 ![Resume](/Images/Resume.png)__
+![Portfolio](/Images/portfolio.png)__
